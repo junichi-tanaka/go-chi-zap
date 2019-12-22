@@ -1,4 +1,4 @@
-module github.com/junichi-tanaka/go-chi-recoverer
+module github.com/junichi-tanaka/go-chi-zap
 
 go 1.13
 

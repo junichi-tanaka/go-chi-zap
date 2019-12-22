@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
-	m "github.com/junichi-tanaka/go-chi-recoverer/middleware"
+	m "github.com/junichi-tanaka/go-chi-zap/middleware"
 	"go.uber.org/zap"
 )
 
